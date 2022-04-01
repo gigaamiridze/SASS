@@ -1,0 +1,25 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "This repository is designed for SASS code and structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigaamiridze/SASS.git"
+  },
+  "author": "Giga Amiridze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gigaamiridze/SASS/issues"
+  },
+  "homepage": "https://github.com/gigaamiridze/SASS#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.47.0"
+  }
+}
